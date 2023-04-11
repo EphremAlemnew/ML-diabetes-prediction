@@ -1,0 +1,1 @@
+"# ML-diabetes-prediction"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/EphremAlemnew/ML-diabetes-prediction.gitgit push -u origin main
